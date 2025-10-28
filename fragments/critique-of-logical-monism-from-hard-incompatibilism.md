@@ -2,6 +2,7 @@
 tags:
   - ethics
   - hard-incompatibilism
+  - fragment
 ---
 # 論理一元主義に対する Hard Incompatibilist からの評価
 
