@@ -1,9 +1,7 @@
 ---
 tags:
-  - justification
-  - classcal-logic
-  - classical-reasoning
   - ethics
+  - hard-incompatibilism
 ---
 # 論理一元主義に対する Hard Incompatibilist からの評価
 
