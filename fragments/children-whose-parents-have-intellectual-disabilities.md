@@ -1,10 +1,11 @@
 ---
-title: 「知的障害者は子供を作るな産むな」という主張について
-date: 2025-10-27
-tags: [ethics, disability, reproduction, anti-natalism]
-mood: "断片"
+tags:
+  - ethics
+  - disability
+  - reproduction
+  - anti-natalism
+  - fragment
 ---
-
 # 「知的障害者は子供を作るな産むな」  という主張について
 
 この主張は、知的障害を持つ両親の元に生まれ育った当事者によるものであり、この動画にて展開されている。  
