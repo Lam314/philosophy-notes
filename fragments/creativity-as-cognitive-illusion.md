@@ -2,6 +2,7 @@
 tags:
   - fragment
   - epistemology
+  - empiricism
 ---
 # 創造性とは何か
 
